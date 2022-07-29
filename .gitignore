@@ -1,0 +1,16 @@
+# Packages
+node_modules/
+
+# Log files
+logs/
+*.log
+npm-debug.log*
+
+# Env
+.env
+env.json
+config.json
+
+# Miscellaneous
+payloads.json
+.DS_Store
